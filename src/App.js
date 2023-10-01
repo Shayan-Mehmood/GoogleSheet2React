@@ -16,8 +16,6 @@ function App() {
 <Route path="/gwrx-and-more" element={<More/>}/>
 
 
-
-
 </Routes>
 
 </BrowserRouter>
